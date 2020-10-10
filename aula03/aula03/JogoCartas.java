@@ -37,7 +37,7 @@ public class JogoCartas {
             baralho.push(carta,naipe);
 
 
-            System.out.println(Arrays.toString(baralho.p));
+
             System.out.println(Arrays.toString(baralho.n));
             System.out.println("size da pilha:"+baralho.size());
         }

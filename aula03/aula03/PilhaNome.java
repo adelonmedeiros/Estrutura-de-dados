@@ -11,6 +11,7 @@ public class PilhaNome {
 
 
     public boolean isFull(){
+
         return (topo == this.letra.length - 1);
     }
 
